@@ -1,12 +1,6 @@
-CS542 Design Patterns
-Fall 2016
-PROJECT 2 README FILE
-
-DUE DATE: Friday,September 30,2016
-SUBMISSION DATE : Friday,September 30,2016
+ README FILE
 
 Author: Prateek Dobriyal
-Email: pdobriy1@binghamton.edu
 
 PURPOSE:
 The purpose of this assignment is to register courses based on the students priority using multithreading and object pool.
